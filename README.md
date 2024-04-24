@@ -4,7 +4,7 @@
 
 Welcome to your coding interview! In this challenge, you will be tasked with provisioning AWS infrastructure using Terraform. You will set up an ECS (Elastic Container Service) web server.
 
-A 1password share link will be shared with you AWS access key information
+A 1password share link will be shared with you with relevant AWS access key information
 
 ## AWS provider
 
@@ -27,7 +27,7 @@ systemctl enable apache2
 echo 'Hello World' > /var/www/html/index.html
 ```
 
-The server is also to be made publically accessible:
+The server is also to be made publically accessible.
 
 Bonus:
 
